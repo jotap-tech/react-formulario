@@ -43,7 +43,7 @@ Como executar
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/react-formulario-controlado.git
+git clone https://github.com/jotap-tech/react-formulario-controlado.git
 
 
 Acesse a pasta do projeto:
@@ -71,8 +71,8 @@ Disciplina
 
 Frontend Frameworks
 Curso: Sistemas de Informação
-Instituição: [Nome da instituição]
+Instituição: UNINASSAU
 
-Autor
 
-[Seu Nome]
+
+João Pedro Venancio Leite - 37023891
